@@ -38,8 +38,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xleofarias&show_icons=true&theme=dracula&locale=en&layout=compact" alt="xleofarias" />
 </p>
+
+
