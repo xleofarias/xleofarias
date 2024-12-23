@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Sou Leonardo Farias</h1>
-<h3 align="center">Me aperfeiçoando para me tornar Analista de dados</h3>
+<h3 align="center">Me aperfeiçoando para me tornar Desenvolvedor Backend .NET</h3>
 
-- 🌱 Estou aprendendo **Python, SQL**
+- 🌱 Tenho conehciento em **C#, SQL Server, .NET, ASP.NET CORE**
 
-- 💬 Me pergunte sobre **Python, SQL, Excel, Power BI**
+- 💬 Me pergunte sobre **C#, SQL, .NET, API**
 
 - 📫 Podem me encontrar **leonardo.fariasnt@gmail.com**
 
