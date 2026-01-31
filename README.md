@@ -59,15 +59,3 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico m
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xleofarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleofarias&layout=compact&theme=dracula"/>
 </div>
-
----
-
-### 🔗 Outros Perfis
-<p align="left">
-  <a href="https://www.hackerrank.com/profile/Leofarias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/zleofarias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-</p>
