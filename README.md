@@ -1,50 +1,73 @@
-<h1 align="center">Olá 👋, Sou Leonardo Farias</h1>
-<h3 align="center">Me aperfeiçoando para me tornar Desenvolvedor Backend .NET</h3>
+<h1 align="center">Olá, eu sou o Leonardo Farias 👋</h1>
 
-- 🌱 Tenho conhecimento em **C#, SQL Server, .NET, ASP.NET CORE, API**
+<p align="center">
+  <b>Analista Programador SQL Server | Em transição para Desenvolvimento Back-End .NET</b>
+</p>
 
-- 💬 Me pergunte sobre **C#, SQL, .NET, API**
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-farias-neves/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:leonardo.fariasnt@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- 📫 Podem me encontrar **leonardo.fariasnt@gmail.com**
+---
 
-- ⚡ Eu tenho curiosidade em **Tecnologia, Biologia e Astronomia**
+### 🚀 Sobre Mim
 
-<h3 align="left">Connect with me:</h3>
+Atualmente atuo como **Analista Programador SQL Server**, mas meu foco de carreira e paixão estão no desenvolvimento **Back-End com C# e .NET**.
+
+Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a aprofundar conhecimentos em arquitetura de software, construção de APIs robustas e boas práticas de DevOps. Também sou um entusiasta de Game Dev nas horas vagas!
+
+- 🔭 **Atualmente trabalhando em:** Criação de APIs RESTful escaláveis com .NET 8.
+- 📚 **Estudando:** Docker, CI/CD (GitHub Actions), SOLID e Clean Code.
+- 🎮 **Hobby:** Desenvolvimento de jogos (Unity & Roblox Studio).
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="left">
+
+**Back-End & Languages**
+<br>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+
+**Database**
+<br>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+**DevOps & Tools**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xleofarias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleofarias&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 🔗 Outros Perfis
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-farias-neves/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo farias" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/Leofarias" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/zleofarias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="leonardo farias" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/Leofarias" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@leofarias" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xleofarias&show_icons=true&theme=dracula&locale=en&layout=compact" alt="xleofarias" />
-</p>
-
-
