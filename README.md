@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Leonardo Farias 👋</h1>
 
 <p align="center">
-  <b>Analista Programador SQL Server | Desenvolvedor Back-End .NET</b>
+  <b>Analista Programador SQL Server | Desenvolvedor Back-End .NET (Cloud & Sistemas Distribuídos)</b>
 </p>
 
 <p align="center">
@@ -17,13 +17,20 @@
 
 ### 🚀 Sobre Mim
 
-Atualmente atuo como **Analista Programador SQL Server**, mas meu foco de carreira e paixão estão no desenvolvimento **Back-End com C# e .NET**.
+Atualmente atuo como **Analista Programador SQL Server**, mas minha verdadeira paixão e foco de carreira estão na construção de **Ecossistemas Back-End com C# e .NET**.
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a aprofundar conhecimentos em arquitetura de software, construção de APIs robustas e esteiras de DevOps.
+Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a dominar fundamentos de Ciência da Computação, arquitetura de software de alta disponibilidade e esteiras de DevOps. 
 
-- 🔭 **Projetos Recentes:** APIs RESTful escaláveis com .NET 8, PostgreSQL e Deploy em Nuvem (Render).
-- 📚 **Focando em:** Arquitetura Limpa, Segurança (Identity/Hashing), Docker e Pipelines CI/CD.
-- 🎮 **Hobby:** Desenvolvimento de jogos (Unity & Roblox Studio).
+- 🔭 **O que eu construo:** Ecossistemas Cloud-Native, APIs RESTful escaláveis, integração de sistemas via mensageria (EDA) e infraestrutura em nuvem.
+- 📚 **Focando atualmente em:** Mensageria Assíncrona (RabbitMQ), Cache Distribuído (Redis), aprimoramento contínuo do Inglês Técnico e consolidação de design patterns.
+- 🎮 **Hobby:** Desenvolvimento de jogos (C# com Unity & Lua com Roblox Studio).
+
+---
+
+### 🏆 Projetos em Destaque
+
+* 🛒 **[ProdutosAPI - Ecossistema E-commerce Cloud-Native](https://github.com/xleofarias/ProdutosAPI)**
+  * *Arquitetura Monorepo corporativa com Mensageria Assíncrona (RabbitMQ/MassTransit), Cache em Memória (Redis), PostgreSQL e CI/CD automatizado no Render.*
 
 ---
 
@@ -31,19 +38,23 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico m
 
 <div align="left">
 
-**Back-End & Frameworks**
+**Back-End & Fundamentos**
 <br>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+
+**Mensageria & Alta Disponibilidade (Cloud)**
+<br>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 **Database**
 <br>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-**DevOps & Cloud**
+**DevOps, Cloud & Versionamento**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
