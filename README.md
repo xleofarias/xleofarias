@@ -1,9 +1,7 @@
 <h1 align="center">Olá, eu sou o Leonardo Farias 👋</h1>
-
 <p align="center">
   <b>Analista Programador SQL Server | Desenvolvedor Back-End .NET (Cloud & Sistemas Distribuídos)</b>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-farias-neves/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,18 +17,21 @@
 
 Atualmente atuo como **Analista Programador SQL Server**, mas minha verdadeira paixão e foco de carreira estão na construção de **Ecossistemas Back-End com C# e .NET**.
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a dominar fundamentos de Ciência da Computação, arquitetura de software de alta disponibilidade e esteiras de DevOps. 
+Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a dominar fundamentos de Ciência da Computação, arquitetura de software de alta disponibilidade e esteiras de DevOps.
 
 - 🔭 **O que eu construo:** Ecossistemas Cloud-Native, APIs RESTful escaláveis, integração de sistemas via mensageria (EDA) e infraestrutura em nuvem.
-- 📚 **Focando atualmente em:** Mensageria Assíncrona (RabbitMQ), Cache Distribuído (Redis), aprimoramento contínuo do Inglês Técnico e consolidação de design patterns.
+- 📚 **Focando atualmente em:** Aprofundamento em arquitetura de sistemas distribuídos, design patterns e consolidação de Inglês Técnico.
 - 🎮 **Hobby:** Desenvolvimento de jogos (C# com Unity & Lua com Roblox Studio).
 
 ---
 
 ### 🏆 Projetos em Destaque
 
+* 📊 **[SistemaRelatorios - Gerador de Relatórios Assíncrono](https://github.com/xleofarias/SistemaRelatorios)**
+  * Monorepo com ASP.NET Core Minimal API, Worker Service e padrão *Asynchronous Request-Reply*. Infraestrutura completa com Docker (multi-stage build, health checks, multi-environment), RabbitMQ via MassTransit e PostgreSQL com Entity Framework Core.
+
 * 🛒 **[ProdutosAPI - Ecossistema E-commerce Cloud-Native](https://github.com/xleofarias/ProdutosAPI)**
-  * *Arquitetura Monorepo corporativa com Mensageria Assíncrona (RabbitMQ/MassTransit), Cache em Memória (Redis), PostgreSQL e CI/CD automatizado no Render.*
+  * Arquitetura Monorepo corporativa com Mensageria Assíncrona (RabbitMQ/MassTransit), Cache em Memória (Redis), PostgreSQL e CI/CD automatizado no Render.
 
 ---
 
@@ -44,19 +45,23 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico m
 <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
 
-**Mensageria & Alta Disponibilidade (Cloud)**
+**Mensageria & Alta Disponibilidade**
 <br>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-**Database**
+**Banco de Dados**
 <br>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-**DevOps, Cloud & Versionamento**
+**Containerização & Orquestração**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
+
+**DevOps, Cloud & Versionamento**
+<br>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
