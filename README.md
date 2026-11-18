@@ -1,78 +1,47 @@
-<h1 align="center">Olá, eu sou o Leonardo Farias 👋</h1>
+<h1 align="center">Leonardo Farias das Neves 👋</h1>
+<p align="center"><strong>Analista Programador SQL Server Pleno | Desenvolvimento backend em C# e .NET</strong></p>
+
 <p align="center">
-  <b>Analista Programador SQL Server | Desenvolvedor Back-End .NET (Cloud & Sistemas Distribuídos)</b>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-farias-neves/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:leonardo.fariasnt@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/leonardo-farias-neves/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn de Leonardo" /></a>
+  <a href="mailto:leonardo.fariasnt@gmail.com"><img src="https://img.shields.io/badge/E--mail-B04736?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-B32629?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/T--SQL-80333A?style=flat-square" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/C%23-56358C?style=flat-square" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square" alt=".NET" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-166DA5?style=flat-square" alt="Docker" />
+</p>
 
-### 🚀 Sobre Mim
+## Sobre mim
 
-Atualmente atuo como **Analista Programador SQL Server**, mas minha verdadeira paixão e foco de carreira estão na construção de **Ecossistemas Back-End com C# e .NET**.
+Na Procfit, trabalho com SQL Server em sistemas ERP de alta volumetria. Investigo gargalos em produção, ajusto consultas e índices e implemento regras de negócio em T-SQL. Antes, no Grupo Rasio, desenvolvi em equipe telas e rotinas em C# com Windows Forms e ADO.NET para a programação de cargas e veículos.
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas (UNISANTA)** e dedico meu tempo livre a dominar fundamentos de Ciência da Computação, arquitetura de software de alta disponibilidade e esteiras de DevOps.
+Nos meus projetos de backend, gosto de investigar como as decisões da aplicação afetam o banco. Na ProdutosAPI, por exemplo, comparei duas formas de percorrer um catálogo para entender o custo de acessar as páginas mais distantes do início.
 
-- 🔭 **O que eu construo:** Ecossistemas Cloud-Native, APIs RESTful escaláveis, integração de sistemas via mensageria (EDA) e infraestrutura em nuvem.
-- 📚 **Focando atualmente em:** Aprofundamento em arquitetura de sistemas distribuídos, design patterns e consolidação de Inglês Técnico.
-- 🎮 **Hobby:** Desenvolvimento de jogos (C# com Unity & Lua com Roblox Studio).
+## Projetos em destaque
 
----
+### [ProdutosAPI](https://github.com/xleofarias/ProdutosAPI)
 
-### 🏆 Projetos em Destaque
+API de catálogo em ASP.NET Core e EF Core. Implementei cache em Redis com invalidação por versão e processamento de eventos em um Worker com MassTransit e Azure Service Bus. O projeto inclui testes com xUnit e um pipeline de CI/CD com GitHub Actions.
 
-* 📊 **[SistemaRelatorios - Gerador de Relatórios Assíncrono](https://github.com/xleofarias/SistemaRelatorios)**
-  * Monorepo com ASP.NET Core Minimal API, Worker Service e padrão *Asynchronous Request-Reply*. Infraestrutura completa com Docker (multi-stage build, health checks, multi-environment), RabbitMQ via MassTransit e PostgreSQL com Entity Framework Core.
+Em um **benchmark local com 100 mil produtos**, o tempo de resposta no percentil 95 (p95) foi de **136,65 ms** com paginação por offset profundo e **12,12 ms** com paginação por cursor (keyset).
 
-* 🛒 **[ProdutosAPI - Ecossistema E-commerce Cloud-Native](https://github.com/xleofarias/ProdutosAPI)**
-  * Arquitetura Monorepo corporativa com Mensageria Assíncrona (RabbitMQ/MassTransit), Cache em Memória (Redis), PostgreSQL e CI/CD automatizado no Render.
+### [SistemaRelatorios](https://github.com/xleofarias/SistemaRelatorios)
 
----
+Gerador de relatórios assíncrono. A API recebe o pedido e o encaminha pela fila para um Worker. Assim, o cliente pode consultar o andamento sem manter a requisição aberta até o relatório ficar pronto.
 
-### 🛠️ Tech Stack & Ferramentas
+Implementei esse fluxo com ASP.NET Core Minimal API, RabbitMQ e MassTransit, com persistência em PostgreSQL via EF Core. A API e o Worker rodam em contêineres Docker.
 
-<div align="left">
+## Formação e interesses
 
-**Back-End & Fundamentos**
-<br>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNISANTA. Estudo sistemas distribuídos e, nas horas livres, também desenvolvo jogos com C# na Unity e Lua no Roblox Studio.
 
-**Mensageria & Alta Disponibilidade**
-<br>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+## GitHub em números
 
-**Banco de Dados**
-<br>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-**Containerização & Orquestração**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-
-**DevOps, Cloud & Versionamento**
-<br>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=xleofarias&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleofarias&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xleofarias&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;locale=pt-br" alt="Estatísticas de xleofarias no GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xleofarias&amp;layout=compact&amp;theme=dracula&amp;locale=pt-br" alt="Linguagens mais usadas nos repositórios de xleofarias" />
+</p>
